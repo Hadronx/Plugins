@@ -26,5 +26,15 @@
 	"oAria": {
 		"sSortAscending":  ": attiva per ordinare la colonna in ordine crescente",
 		"sSortDescending": ": attiva per ordinare la colonna in ordine decrescente"
+	},
+	"select": {
+	   "rows": {
+	    "_": "%d righe selezionate",
+	    "0": "Cliccare una riga per selezionarla",
+	    "1": "1 riga selezionata"
 	}
+  }
+	
+	
+	
 }
